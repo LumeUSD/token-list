@@ -11,9 +11,6 @@
     "description": "LumE USD is a decentralized stablecoin pegged to the US Dollar, built on Solana for fast and low-cost transactions."
   }
 }
-# 🚨🚨🚨This repository is EOL 🚨🚨🚨
-## Read below for instructions on new token metadata flow
----
 
 As of June 20th, this repository will be archived and will receive no more updates. The repository will be set to read-only and the npm package will still exist at `@solana/spl-token-registry`.
 
