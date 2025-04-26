@@ -1,46 +1,38 @@
-Token Name: LumE USD (LUSD)
-LumE USD (LUSD)
+# LumE USD (LUSD)
 
-LumE USD (LUSD) — стейблкоин в сети Solana, привязанный к доллару США (USD).
-Он разработан для быстрого и дешёвого перемещения средств внутри блокчейна с минимальными комиссиями.
+**LumE USD (LUSD)** is a stable and decentralized digital currency launched on the Solana blockchain. Designed for fast, secure, and low-cost transactions, LUSD empowers users and businesses to operate in a truly borderless financial ecosystem.
 
-Основные данные:
-	•	Тикер: LUSD
-	•	Адрес: HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE
-	•	Блокчейн: Solana
-	•	Десятичные знаки: 8
-	•	Тип токена: SPL Token
-	•	Категория: Stablecoin
-	•	Логотип: Ссылка на IPFS
-	•	Сообщество: Telegram
+---
 
-Краткое описание:
+## Token Information
 
-LumE USD — это надёжный и быстрый стейблкоин для использования в экосистеме Solana и DeFi-проектах.
-LumE USD (LUSD) is a stablecoin built on the Solana blockchain and pegged to the US Dollar (USD).
-It is designed for fast, low-cost, and scalable digital payments and DeFi use cases.
+- **Name:** LumE USD
+- **Symbol:** LUSD
+- **Blockchain:** Solana
+- **Token Address:** `HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE`
+- **Decimals:** 8
+- **Logo:** ![LumE Logo](https://gateway.pinata.cloud/ipfs/bafybeifqn76mz2ctuzludo6uv4v5wm76zjc6oinfg7ez2sqpuk5ig6rzaa)
 
-⸻
+---
 
-Key Information
-	•	Blockchain: Solana
-	•	Token Type: SPL Token
-	•	Symbol: LUSD
-	•	Decimals: 8
-	•	Token Address: HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE
-	•	Logo: IPFS Link
-	•	Telegram: https://t.me/LumeUSD
+## Purpose
 
-⸻
+LumE USD aims to:
 
-Description
+- Provide a stablecoin solution with lightning-fast transactions using Solana's high-performance blockchain.
+- Serve as a foundation for decentralized finance (DeFi), logistics payments, and cross-border settlements.
+- Enable easy integration for merchants, wallets, and platforms.
 
-LumE USD is a decentralized, USD-pegged stablecoin on Solana, enabling fast and secure transactions with near-zero fees.
-LUSD is ideal for use in DeFi, trading, remittances, and payments.
+---
 
-⸻
+## Community
 
-Use Cases
-	•	Stable store of value in volatile crypto markets
-	•	On-chain payments and transfers
-	•	Integration with DeFi platforms, Web3 apps, and wallets
+Stay connected with us:
+
+- [Telegram](https://t.me/LumeUSD)
+
+---
+
+## Licensing
+
+This repository is maintained by the LumE USD community. All assets, including the logo and metadata, are open-source under the MIT license unless otherwise specified.
