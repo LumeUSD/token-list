@@ -1,45 +1,38 @@
 # LumE USD (LUSD)
 
-**LumE USD (LUSD)** — это стабильный токен на блокчейне Solana, обеспеченный долларом США, созданный для быстрых, дешёвых и безопасных транзакций.
+**LumE USD (LUSD)** is a stable and decentralized digital currency launched on the Solana blockchain. Designed for fast, secure, and low-cost transactions, LUSD empowers users and businesses to operate in a truly borderless financial ecosystem.
 
 ---
 
-## Основная информация
+## Token Information
 
-- **Токен:** LumE USD  
-- **Тикер:** LUSD  
-- **Блокчейн:** Solana  
-- **Адрес токена:** `HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE`  
-- **Десятичные знаки:** 8  
-- **Тип:** SPL Token
-
----
-
-## Ссылки
-
-- **Telegram:** [t.me/LumeUSD](https://t.me/LumeUSD)  
-- **GitHub:** [github.com/LumeUSD](https://github.com/LumeUSD)  
-- **Логотип (IPFS):** [Ссылка на изображение](https://gateway.pinata.cloud/ipfs/bafybeifqn76mz2ctuzludo6uv4v5wm76zjc6oinfg7ez2sqpuk5ig6rzaa)
+- **Name:** LumE USD
+- **Symbol:** LUSD
+- **Blockchain:** Solana
+- **Token Address:** `HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE`
+- **Decimals:** 8
+- **Logo:** ![LumE Logo](https://gateway.pinata.cloud/ipfs/bafybeifqn76mz2ctuzludo6uv4v5wm76zjc6oinfg7ez2sqpuk5ig6rzaa)
 
 ---
 
-## Использование
+## Purpose
 
-LumE USD идеально подходит для:
-- Личных переводов
-- Коммерческих расчётов
-- Интеграции в Web3-приложения
-- Криптотрейдинга
+LumE USD aims to:
 
----
-
-## Контрибьютинг
-
-Открыт для предложений и партнёрств. Предложения можно оставлять через Issues или в Telegram.
+- Provide a stablecoin solution with lightning-fast transactions using Solana's high-performance blockchain.
+- Serve as a foundation for decentralized finance (DeFi), logistics payments, and cross-border settlements.
+- Enable easy integration for merchants, wallets, and platforms.
 
 ---
 
-## Лицензия
+## Community
 
-MIT
+Stay connected with us:
 
+- [Telegram](https://t.me/LumeUSD)
+
+---
+
+## Licensing
+
+This repository is maintained by the LumE USD community. All assets, including the logo and metadata, are open-source under the MIT license unless otherwise specified.
