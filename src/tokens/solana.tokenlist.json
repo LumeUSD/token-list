@@ -1,4 +1,16 @@
 {
+  "chainId": 101,
+  "address": "HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE",
+  "symbol": "LUSD",
+  "name": "LumE USD",
+  "decimals": 8,
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeifqn76mz2ctuzludo6uv4v5wm76zjc6oinfg7ez2sqpuk5ig6rzaa",
+  "tags": ["stablecoin"],
+  "extensions": {
+    "website": "https://t.me/LumeUSD",
+    "description": "This token is built on Solana for fast and low-cost transactions."
+  }
+}
   "name": "Solana Token List",
   "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
   "keywords": [
@@ -29685,16 +29697,4 @@
       "extensions": {
         "discord": "https://discord.gg/spaceheads",
         "
- {
-  "chainId": 101,
-  "address": "HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE",
-  "symbol": "LUSD",
-  "name": "LumE USD",
-  "decimals": 8,
-  "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeifqn76mz2ctuzludo6uv4v5wm76zjc6oinfg7ez2sqpuk5ig6rzaa",
-  "tags": ["stablecoin"],
-  "extensions": {
-    "website": "https://t.me/LumeUSD",
-    "description": "This token is built on Solana for fast and low-cost transactions."
-  }
-}
+ 
