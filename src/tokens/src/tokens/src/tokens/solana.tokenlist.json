@@ -1,26 +1,9 @@
-Hello CoinGecko team,
-
-We would like to request the listing of our token LumE USD (LUSD) on your platform.
-
-Token Information:
-- Name: LumE USD
-- Symbol: LUSD
-- Blockchain: Solana
-- Token Address: HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE
-- Decimals: 8
-- Logo URL: https://gateway.pinata.cloud/ipfs/bafybeifqn76mz2ctuzludo6uv4v5wm76zjc6oinfg7ez2sqpuk5ig6rzaa
-
-Project Links:
-- Website: https://github.com/LumeUSD
-- Twitter: https://x.com/usdlume
-- Telegram: https://t.me/LumeUSD
-- GitHub: https://github.com/LumeUSD
-- Email: lumeusd@proton.me
-
-Token Description:
-LumE USD (LUSD) is a Solana-based stable token designed for fast, scalable, and decentralized payments. It powers Web3 applications, DeFi integrations, and peer-to-peer transactions, enabling low-cost and reliable value transfer across the Solana ecosystem.
-
-Thank you for considering our request!
-
-Best regards,  
-The LumE USD Team
+{
+  "chainId": 101,
+  "address": "HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE",
+  "symbol": "LUSD",
+  "name": "LumE USD",
+  "decimals": 8,
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeifqn76mz2ctuzludo6uv4v5wm76zjc6oinfg7ez2sqpuk5ig6rzaa",
+  "tags": ["stablecoin"]
+}
