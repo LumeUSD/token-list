@@ -1,6 +1,4 @@
-import { TokenInfo } from '@solana/spl-token-registry';
-
-export const lumeToken: TokenInfo = {
+ { TokenInfo }
   chainId: 101, // 101 = Solana Mainnet
   address: 'HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE',
   symbol: 'LUSD',
@@ -10,6 +8,6 @@ export const lumeToken: TokenInfo = {
   tags: ['stablecoin', 'usd-pegged'],
   extensions: {
     telegram: 'https://t.me/LumeUSD',
-    website: 'https://lumeusd.com', // если сайта пока нет, можно убрать эту строку
+    website: 'https://lumeusd.com', //
   },
 };
