@@ -1,4 +1,4 @@
- { TokenInfo }
+{ TokenInfo }
   chainId: 101, // 101 = Solana Mainnet
   address: 'HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE',
   symbol: 'LUSD',
