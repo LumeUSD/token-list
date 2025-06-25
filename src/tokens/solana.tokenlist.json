@@ -1,28 +1,25 @@
-[
-  {
-    "chainId": 101,
-    "address": "HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE",
-    "symbol": "LUSD",
-    "name": "LumE USD",
-    "decimals": 8,
-    "logoURI": "https://gateway.pinata.cloud/ipfs/...",
-    "tags": ["stablecoin"],
-    "extensions": {
-      "website": "https://t.me/LumeUSD"
-    }
-  },
-  {
-    "chainId": 101,
-    "address": "DK9DNsfvWcHirv9YZ2GcLbKqaGMkQ2JVYFxU7cGhvFhM",
-    "symbol": "MASK",
-    "name": "The MASK Coin",
-    "decimals": 3,
-    "logoURI": "https://amaranth-negative-rat-588.mypinata.cloud/ipfs/bafkreifyglqjzp2bnnhesxdbfme3355sgedeb46qyvbo3chfbt3yrq4ovq",
-    "tags": ["meme", "utility"],
-    "extensions": {
-      "website": "https://www.themaskcoin.com",
-      "twitter": "https://x.com/TheMaskCoinMASK",
-      "telegram": "https://t.me/TheMaskCoinMASK"
-    }
+{
+  "chainId": 101,
+  "address": "HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE",
+  "symbol": "LUSD",
+  "name": "LumE USD",
+  "decimals": 8,
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeifqn76mz2ctuzludo6uv4v5wm76zjc6oinfg7ez2sqpuk5ig6rzaa",
+  "tags": ["stablecoin"],
+  "extensions": {
+    "website": "https://t.me/LumeUSD"
   }
-]
+{3 items
+mint:
+"6C88HUSZJTewjnHmqemehFSr4KHVd2vZL49ZyeSbfzMP"
+updateAuthority:
+"2vbb7d4FALMEDNXqvQKht7UmovEbhuuUUEs1svaaZggk"
+data:{3 items
+name:
+"Duff mem"
+symbol:
+"Duff"
+uri:
+"https://gateway.irys.xyz/E5bZo13vq779hq3DENyJer2uphSgV1GeFMPC8KKCHhj4"
+}
+}
