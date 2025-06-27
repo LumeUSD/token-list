@@ -34,3 +34,17 @@ editionNonce:
 tokenStandard:
 2
 }
+{3 items
+mint:
+"6C88HUSZJTewjnHmqemehFSr4KHVd2vZL49ZyeSbfzMP"
+updateAuthority:
+"2vbb7d4FALMEDNXqvQKht7UmovEbhuuUUEs1svaaZggk"
+data:{3 items
+name:
+"Duff mem"
+symbol:
+"Duff"
+uri:
+"https://gateway.irys.xyz/E5bZo13vq779hq3DENyJer2uphSgV1GeFMPC8KKCHhj4"
+}
+}
