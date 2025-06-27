@@ -47,4 +47,39 @@ symbol:
 uri:
 "https://gateway.irys.xyz/E5bZo13vq779hq3DENyJer2uphSgV1GeFMPC8KKCHhj4"
 }
+}{8 items
+key:
+4
+updateAuthority:
+"TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM"
+mint:
+"6Y8mM3ksXPR9RKW2Nkh4vb8QagDk5seuVPkRAmFepump"
+data:{5 items
+name:
+"ShipLink"
+symbol:
+"Logi"
+uri:
+"https://ipfs.io/ipfs/QmSiEdBRMgBXrq7BLvKCkDcEdmweJsknPT4dbQLyJiLKPB"
+sellerFeeBasisPoints:
+0
+creators:[1 item
+0:{3 items
+address:
+"ATSc6kMtFf3JsUjiGiXWRiGvRYija3k6mDniiaxagE9x"
+verified:
+0
+share:
+100
+}
+]
+}
+primarySaleHappened:
+0
+isMutable:
+0
+editionNonce:
+255
+tokenStandard:
+2
 }
