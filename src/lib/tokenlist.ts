@@ -1,13 +1,21 @@
- { TokenInfo }
-  chainId: 101, // 101 = Solana Mainnet
-  address: 'HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE',
-  symbol: 'LUSD',
-  name: 'LumE USD',
-  decimals: 8,
-  logoURI: 'https://gateway.pinata.cloud/ipfs/bafybeifqn76mz2ctuzludo6uv4v5wm76zjc6oinfg7ez2sqpuk5ig6rzaa',
-  tags: ['stablecoin', 'usd-pegged'],
-  extensions: {
-    telegram: 'https://t.me/LumeUSD',
-    website: 'https://lumeusd.com', //
+{
+  "name": "Solana Token List",
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Price-stable tokens"
+    }
   },
-};
+  "timestamp": "2025-06-29T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE",
+      "symbol": "LUSD",
+      "name": "LumE USD",
+      "decimals": 8,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmPgPTBWgUnPXxhb1AjKd4miMmomthnvLCZBA9yVoQHWjD",
+      "tags": ["stablecoin"]
+    }
+  ]
+}
