@@ -1,37 +1,42 @@
-import { TokenInfo } from '@solana/spl-token-registry';
+import test from 'ava';
+import {
+  ENV,
+  Strategy,
+  TokenListProvider,
+} from './tokenlist';
 
-describe('LumE USD Token', () => {
-  const lumeUsd: TokenInfo = {
-    chainId: 101, // 101 = Solana mainnet
-    address: 'HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE',
-    symbol: 'LUSD',
-    name: 'LumE USD',
-    decimals: 8,
-    logoURI: 'https://gateway.pinata.cloud/ipfs/bafybeifqn76mz2ctuzludo6uv4v5wm76zjc6oinfg7ez2sqpuk5ig6rzaa',
-    tags: ['stablecoin'],
-    extensions: {
-      telegram: 'https://t.me/LumeUSD',
-    },
-  };
+const LUSD_MINT = 'HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE';
 
-  it('should have a valid address', () => {
-    expect(lumeUsd.address).toMatch(/^([1-9A-HJ-NP-Za-km-z]{32,44})$/);
-  });
+test('LUSD token is present in token list', async (t) => {
+  const list = await new TokenListProvider().resolve(Strategy.Static);
+  const token = list
+    .filterByChainId(ENV.MainnetBeta)
+    .getList()
+    .find((item) => item.address === LUSD_MINT);
 
-  it('should have correct decimals', () => {
-    expect(lumeUsd.decimals).toBe(8);
-  });
+  t.truthy(token, 'LUSD token not found in list');
+  t.is(token?.symbol, 'LUSD');
+  t.is(token?.name, 'LumE USD');
+});
 
-  it('should have a valid logo URI', () => {
-    expect(lumeUsd.logoURI).toContain('https://');
-  });
+test('LUSD token has correct decimals and tag', async (t) => {
+  const list = await new TokenListProvider().resolve(Strategy.Static);
+  const token = list
+    .filterByChainId(ENV.MainnetBeta)
+    .getList()
+    .find((item) => item.address === LUSD_MINT);
 
-  it('should have correct name and symbol', () => {
-    expect(lumeUsd.name).toBe('LumE USD');
-    expect(lumeUsd.symbol).toBe('LUSD');
-  });
+  t.truthy(token);
+  t.is(token?.decimals, 8);
+  t.true(token?.tags?.includes('stablecoin'));
+});
 
-  it('should have at least one tag', () => {
-    expect(lumeUsd.tags.length).toBeGreaterThan(0);
-  });
+test('LUSD token is not duplicated in list', async (t) => {
+  const list = await new TokenListProvider().resolve(Strategy.Static);
+  const matches = list
+    .filterByChainId(ENV.MainnetBeta)
+    .getList()
+    .filter((item) => item.address === LUSD_MINT);
+
+  t.is(matches.length, 1);
 });
