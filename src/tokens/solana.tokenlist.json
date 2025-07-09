@@ -1,4 +1,19 @@
 {
+  "chainId": 101,
+  "address": "6C88HUSZJTewjnHmqemehFSr4KHVd2vZL49ZyeSbfzMP",
+  "symbol": "DUFF",
+  "name": "Duff Memecoin",
+  "decimals": 9,
+  "logoURI": "https://gateway.irys.xyz/YOUR_LOGO_FILE.png",
+  "tags": ["memecoin"],
+  "extensions": {
+    "website": "https://duffcoin.xyz",
+    "twitter": "https://twitter.com/duffcoin",
+    "discord": "https://discord.gg/duff",
+    "description": "Duff – мем-токен на Solana, вдохновлённый Симпсонами"
+  }
+}
+
   "name": "Solana Token List",
   "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
   "keywords": [
@@ -29685,15 +29700,3 @@
       "extensions": {
         "discord": "https://discord.gg/spaceheads",
         "in
-        {
-  "name": "Duff mem",
-  "symbol": "Duff",
-  "description": "Meme token inspired by the iconic Duff beer. 100% decentralized fun.",
-  "image": "https://raw.githubusercontent.com/USERNAME/REPO/main/assets/duffmem_logo_256.png",
-  "decimals": 9,
-  "extensions": {
-    "website": "https://yourproject.xyz",
-    "twitter": "https://twitter.com/yourproject"
-  },
-  "tags": ["meme", "beer", "solana"]
-}
