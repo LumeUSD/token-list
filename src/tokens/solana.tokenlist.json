@@ -13,7 +13,43 @@
     "description": "Duff – мем-токен на Solana, вдохновлённый Симпсонами"
   }
 }
-
+{8 items
+key:
+4
+updateAuthority:
+"5uxQEfC5su8SdkCqaVnWQiaDoTgc6PQB8pfRuFeTuPv3"
+mint:
+"HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE"
+data:{5 items
+name:
+"LumE USD"
+symbol:
+"LUSD"
+uri:
+"https://gateway.pinata.cloud/ipfs/QmPgPTBWgUnPXxhb1AjKd4miMmomthnvLCZBA9yVoQHWjD"
+sellerFeeBasisPoints:
+0
+creators:[1 item
+0:{3 items
+address:
+"5uxQEfC5su8SdkCqaVnWQiaDoTgc6PQB8pfRuFeTuPv3"
+verified:
+1
+share:
+100
+}
+]
+}
+primarySaleHappened:
+0
+isMutable:
+1
+editionNonce:
+255
+tokenStandard:
+2
+}
+{
   "name": "Solana Token List",
   "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
   "keywords": [
@@ -29684,19 +29720,4 @@
         "discord": "https://discord.gg/spaceheads",
         "instagram": "https://www.instagram.com/space_heads_nft/",
         "twitter": "https://twitter.com/space_heads_nft",
-        "website": "https://spaceheads.co"
-      }
-    },
-    {
-      "chainId": 101,
-      "address": "4HecfhYXWiRhfJyjfRAufrxkRocBgwDzRmYAzCLS3VDA",
-      "symbol": "HEADS",
-      "name": "Space Heads Coin",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4HecfhYXWiRhfJyjfRAufrxkRocBgwDzRmYAzCLS3VDA/logo.svg",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-        "discord": "https://discord.gg/spaceheads",
-        "in
+        "website": "https:/
