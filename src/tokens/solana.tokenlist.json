@@ -1,16 +1,23 @@
-{
-  "chainId": 101,
-  "address": "6C88HUSZJTewjnHmqemehFSr4KHVd2vZL49ZyeSbfzMP",
-  "symbol": "DUFF",
-  "name": "Duff Memecoin",
-  "decimals": 9,
-  "logoURI": "https://gateway.irys.xyz/YOUR_LOGO_FILE.png",
-  "tags": ["memecoin"],
-  "extensions": {
-    "website": "https://duffcoin.xyz",
-    "twitter": "https://twitter.com/duffcoin",
-    "discord": "https://discord.gg/duff",
-    "description": "Duff – мем-токен на Solana, вдохновлённый Симпсонами"
+[
+  {
+    "extension": "metadataPointer",
+    "state": {
+      "authority": null,
+      "metadataAddress": "6C88HUSZJTewjnHmqemehFSr4KHVd2vZL49ZyeSbfzMP"
+    }
+  },
+  {
+    "extension": "tokenMetadata",
+    "state": {
+      "additionalMetadata": [],
+      "mint": "6C88HUSZJTewjnHmqemehFSr4KHVd2vZL49ZyeSbfzMP",
+      "name": "Duff mem",
+      "symbol": "Duff",
+      "updateAuthority": "2vbb7d4FALMEDNXqvQKht7UmovEbhuuUUEs1svaaZggk",
+      "uri": "https://gateway.irys.xyz/E5bZo13vq779hq3DENyJer2uphSgV1GeFMPC8KKCHhj4"
+    }
+  }
+]
   }
 }
 {8 items
@@ -29709,15 +29716,4 @@ tokenStandard:
     {
       "chainId": 101,
       "address": "AELJZ6bGcTRMzA4qHPZzqmfQ7eKDz47wNtzjDG5tqkRR",
-      "symbol": "HEAD",
-      "name": "Heads Coin",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AELJZ6bGcTRMzA4qHPZzqmfQ7eKDz47wNtzjDG5tqkRR/logo.svg",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-        "discord": "https://discord.gg/spaceheads",
-        "instagram": "https://www.instagram.com/space_heads_nft/",
-        "twitter": "https://twitter.com/space_heads_nft",
-        "website": "https:/
+      "symbol": "HEAD
