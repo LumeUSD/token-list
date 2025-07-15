@@ -1,4 +1,27 @@
-[
+{7 items
+key:
+4
+updateAuthority:
+"AqH29mZfQFgRpfwaPoTMWSKJ5kqauoc1FwVBRksZyQrt"
+mint:
+"So11111111111111111111111111111111111111112"
+data:{4 items
+name:
+"Wrapped SOL"
+symbol:
+"SOL"
+uri:
+""
+sellerFeeBasisPoints:
+0
+}
+primarySaleHappened:
+0
+isMutable:
+1
+editionNonce:
+254
+}[
   {
     "extension": "metadataPointer",
     "state": {
@@ -29715,5 +29738,4 @@ tokenStandard:
     },
     {
       "chainId": 101,
-      "address": "AELJZ6bGcTRMzA4qHPZzqmfQ7eKDz47wNtzjDG5tqkRR",
-      "symbol": "HEAD
+      "address": "AELJZ6bGcTRMzA4qHPZz
