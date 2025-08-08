@@ -1,3 +1,29 @@
+{8 items
+key:
+4
+updateAuthority:
+"69GZpzKffCruP9VfRdr9eXz33Uj2mALKVzjq7jvAbyVG"
+mint:
+"PayMQJ4UgpZCVgJPybt1NJqXEby2dvEQi8kvywL41FX"
+data:{4 items
+name:
+"Payeer"
+symbol:
+"Pay"
+uri:
+"https://ipfs.io/ipfs/QmRZpbBexowE8gFZyDd7NBE8UirB9GHEwYUj4AWqwrgk1M"
+sellerFeeBasisPoints:
+0
+}
+primarySaleHappened:
+0
+isMutable:
+0
+editionNonce:
+254
+tokenStandard:
+2
+} 
 {7 items
 key:
 4
@@ -29730,12 +29756,4 @@ tokenStandard:
         "utility-token"
       ],
       "extensions": {
-        "discord": "https://discord.gg/spaceheads",
-        "instagram": "https://www.instagram.com/space_heads_nft/",
-        "twitter": "https://twitter.com/space_heads_nft",
-        "website": "https://spaceheads.co"
-      }
-    },
-    {
-      "chainId": 101,
-      "address": "AELJZ6bGcTRMzA4qHPZz
+        "discord": "https://disc
